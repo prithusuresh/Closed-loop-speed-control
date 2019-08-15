@@ -5,6 +5,7 @@ The reference rpm, defined as the desired speed at which the shaft needs to rota
 The output variable of the control system is the 8-bit PWM value, provided by the Arduino. This signal is used to control the Base-emitter voltage of an NPN transistor, which operates as a switch. 
 
 The Motor is connected to the collector of the transistor and the emitter is grounded.
+Read Project Report for a more detailed explanation.
 
 
 
